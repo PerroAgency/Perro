@@ -1,0 +1,88 @@
+
+
+
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    }
+    
+    
+    h1{
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 300;
+        color: #FFFFFF
+        }
+    
+        h2{
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 100;
+            color: #FFFFFF
+            
+            }
+    
+    
+             h3{
+                font-family: 'Work Sans', sans-serif;
+                font-weight: 80;
+                color: #FFFFFF
+    
+             }
+    
+    
+    p{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 100;
+    color: #FFFFFF
+    }
+    
+    
+    footer {
+        justify-content: start;
+    top: 763px;
+    left: 30px;
+    width: 1050px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 15px/18px Work Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    size: 15px;
+    
+    
+    }
+    
+    .logo{
+    justify-content: start;
+    left: 30px;
+    }
+    
+    .backround{
+    
+    background-image: url("../img/bg.png");
+    
+    }
+    
+    .backroundcontacto{
+    
+        background-image: url("../img/bgcontacto.png");
+        
+    
+    }
+    
+    
+    
+    
+    
+    .containernav{
+    justify-content: end;
+    
+    }
+    
+    
+    .imgperfiles {
+    margin: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+    @import "variables";
